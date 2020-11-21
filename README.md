@@ -1,2 +1,3 @@
 # krintz
-aaa
+
+Our program is for children in primary school that wish to learn and practice their math skills in a fun way. The project is currently in the works and some additions will be made.
