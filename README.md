@@ -5,3 +5,5 @@ Our program is for children in primary school that wish to learn and practice th
 We tried to make the page as interactive as possible by having a quiz for each operation, adding sound effects for the answers and making a game to play in which you build your own city by answering questions.
 
 This was our first attempt at using HTML and JavaScript thus the simple code and design of the website.
+
+The hackathon file is the one we uploaded for the first deadline while the final product is the one we uploaded on the final deadline
