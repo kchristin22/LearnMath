@@ -6,4 +6,4 @@ We tried to make the page as interactive as possible by having a quiz for each o
 
 This was our first attempt at using HTML and JavaScript thus the simple code and design of the website.
 
-The hackathon file is the one we uploaded for the first deadline while the final product is the one we uploaded on the final deadline
+The hackathon file is the one we uploaded for the first deadline while the final product is the one we uploaded on the final deadline.
